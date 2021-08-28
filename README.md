@@ -1,2 +1,2 @@
 # Button_favourite
-[Button](Demo/demo.gif)
+![Button](Demo/demo.gif)
